@@ -1,0 +1,57 @@
+2025-07-24 17:47:56,550 - INFO - 🚀 BindingForge training session started
+2025-07-24 17:47:56,550 - INFO - 📁 Log file: model_data\training_logs\training_20250724_174756.log
+2025-07-24 17:47:56,551 - INFO - 🚀 Starting training for 50 epochs
+2025-07-24 17:47:56,551 - INFO - 📊 Training samples: 1,793
+2025-07-24 17:47:56,551 - INFO - 📊 Validation samples: 449
+2025-07-24 17:49:13,009 - INFO - Epoch 1: Train=2.6469, Val=2.5442, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:50:29,518 - INFO - Epoch 2: Train=2.0665, Val=1.5404, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:51:42,189 - INFO - Epoch 3: Train=1.0123, Val=1.0297, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:52:56,521 - INFO - Epoch 4: Train=0.4963, Val=0.1613, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:54:13,421 - INFO - Epoch 5: Train=0.1383, Val=0.0971, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:55:31,980 - INFO - Epoch 6: Train=0.0746, Val=0.1031, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:56:54,160 - INFO - Epoch 7: Train=0.0662, Val=0.0237, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:58:23,588 - INFO - Epoch 8: Train=0.0527, Val=0.0201, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 17:59:53,130 - INFO - Epoch 9: Train=0.0286, Val=0.0070, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:01:10,935 - INFO - Epoch 10: Train=0.0324, Val=0.0074, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:02:31,022 - INFO - Epoch 11: Train=0.0161, Val=0.0067, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:03:50,863 - INFO - Epoch 12: Train=0.0241, Val=0.0478, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:05:08,468 - INFO - Epoch 13: Train=0.0343, Val=0.0331, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:06:25,852 - INFO - Epoch 14: Train=0.0266, Val=0.0060, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:07:44,153 - INFO - Epoch 15: Train=0.0098, Val=0.0024, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:09:02,727 - INFO - Epoch 16: Train=0.0143, Val=0.0080, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:10:26,655 - INFO - Epoch 17: Train=0.0174, Val=0.0033, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:12:00,750 - INFO - Epoch 18: Train=0.0048, Val=0.0020, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:13:39,153 - INFO - Epoch 19: Train=0.0046, Val=0.0089, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:15:08,044 - INFO - Epoch 20: Train=0.0192, Val=0.0601, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:16:40,287 - INFO - Epoch 21: Train=0.0295, Val=0.0077, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:18:22,630 - INFO - Epoch 22: Train=0.0131, Val=0.0016, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:20:17,407 - INFO - Epoch 23: Train=0.0151, Val=0.0035, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:22:06,162 - INFO - Epoch 24: Train=0.0072, Val=0.0015, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:23:57,190 - INFO - Epoch 25: Train=0.0077, Val=0.0014, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:25:53,767 - INFO - Epoch 26: Train=0.0046, Val=0.0009, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:27:59,072 - INFO - Epoch 27: Train=0.0033, Val=0.0010, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:31:00,081 - INFO - Epoch 28: Train=0.0117, Val=0.0325, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:34:50,920 - INFO - Epoch 29: Train=0.0317, Val=0.0460, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:38:55,773 - INFO - Epoch 30: Train=0.0144, Val=0.0008, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:43:04,087 - INFO - Epoch 31: Train=0.0040, Val=0.0014, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:47:18,970 - INFO - Epoch 32: Train=0.0021, Val=0.0011, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:51:41,004 - INFO - Epoch 33: Train=0.0016, Val=0.0006, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 18:56:05,113 - INFO - Epoch 34: Train=0.0018, Val=0.0004, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 19:00:41,321 - INFO - Epoch 35: Train=0.0030, Val=0.0006, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 19:05:23,819 - INFO - Epoch 36: Train=0.0107, Val=0.0092, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 19:10:14,087 - INFO - Epoch 37: Train=0.0083, Val=0.0143, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 19:15:41,999 - INFO - Epoch 38: Train=0.0374, Val=0.0042, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 19:21:24,234 - INFO - Epoch 39: Train=0.0056, Val=0.0114, Validity=0.00%, Uniqueness=0.00%, LR=1.00e-03
+2025-07-24 19:27:06,468 - INFO - Epoch 40: Train=0.0066, Val=0.0035, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 19:32:43,386 - INFO - Epoch 41: Train=0.0014, Val=0.0008, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 19:38:17,983 - INFO - Epoch 42: Train=0.0005, Val=0.0004, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 19:43:54,699 - INFO - Epoch 43: Train=0.0004, Val=0.0006, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 19:49:28,534 - INFO - Epoch 44: Train=0.0004, Val=0.0003, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 19:55:02,483 - INFO - Epoch 45: Train=0.0002, Val=0.0003, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 20:00:37,597 - INFO - Epoch 46: Train=0.0003, Val=0.0003, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 20:06:12,249 - INFO - Epoch 47: Train=0.0003, Val=0.0002, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 20:11:49,379 - INFO - Epoch 48: Train=0.0004, Val=0.0002, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 20:17:25,465 - INFO - Epoch 49: Train=0.0003, Val=0.0001, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 20:23:01,582 - INFO - Epoch 50: Train=0.0004, Val=0.0003, Validity=0.00%, Uniqueness=0.00%, LR=5.00e-04
+2025-07-24 20:23:01,639 - INFO - 🎉 Training completed successfully!
+2025-07-24 20:23:01,639 - INFO - Best validation loss: 0.0001
