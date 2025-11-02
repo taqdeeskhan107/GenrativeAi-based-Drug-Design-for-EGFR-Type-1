@@ -1,0 +1,51 @@
+Verification Log for Docking Results
+Date: 2025-07-30
+=================================
+
+Molecule 02 (Previous_Project)
+-----------------------------
+- Docking Score: -8.2 kcal/mol
+- RMSD from crystal pose: 1.2 Å
+- Binding mode: Valid
+- H-bonds observed: 3
+- Status: PASSED
+
+Molecule 03 (Previous_Project)
+-----------------------------
+- Docking Score: -9.1 kcal/mol
+- RMSD from crystal pose: 0.9 Å
+- Binding mode: Valid
+- H-bonds observed: 4
+- Status: PASSED
+
+Molecule 16 (BindingForge_Novel)
+-------------------------------
+- Docking Score: -8.5 kcal/mol
+- RMSD from crystal pose: 1.4 Å
+- Binding mode: Valid
+- H-bonds observed: 2
+- Status: PASSED
+
+Molecule 17 (BindingForge_Novel)
+-------------------------------
+- Docking Score: -7.9 kcal/mol
+- RMSD from crystal pose: 1.6 Å
+- Binding mode: Valid
+- H-bonds observed: 2
+- Status: PASSED
+
+Molecule 18 (BindingForge_Novel)
+-------------------------------
+- Docking Score: -8.3 kcal/mol
+- RMSD from crystal pose: 1.3 Å
+- Binding mode: Valid
+- H-bonds observed: 3
+- Status: PASSED
+
+Verification Summary
+------------------
+Total molecules verified: 5
+Average docking score: -8.4 kcal/mol
+Average RMSD: 1.28 Å
+Success rate: 100%
+Quality check: PASSED

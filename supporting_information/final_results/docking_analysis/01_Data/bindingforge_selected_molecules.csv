@@ -1,0 +1,6 @@
+mol_id,smiles,source,project_phase,date
+2,n1c2c(ncnc2c(Nc2cccc(NC(C)C)c2)cc1)C1CCC1,Previous_Project,Phase_1,2025-07-30
+3,c1ccc(cc2c1Nc1ncnc(c1)NCCCCC1)Nc1ncnc2C1CCOCC1,Previous_Project,Phase_1,2025-07-30
+16,Cc1ccc2ncnc(Nc3ccc(F)c(Cl)c3)c2c1,BindingForge_Novel,Phase_2,2025-07-30
+17,c1ccc(Nc2nccc(c3ccccc3)n2)cc1,BindingForge_Novel,Phase_2,2025-07-30
+18,COc1ccc(Nc2nccc(c3ccccc3)n2)cc1,BindingForge_Novel,Phase_2,2025-07-30

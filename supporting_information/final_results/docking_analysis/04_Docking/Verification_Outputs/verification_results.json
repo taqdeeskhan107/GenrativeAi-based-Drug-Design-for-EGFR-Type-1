@@ -1,0 +1,54 @@
+{
+    "verification_results": {
+        "timestamp": "2025-07-30T14:30:00",
+        "molecules": {
+            "molecule_02": {
+                "source": "Previous_Project",
+                "docking_score": -8.2,
+                "rmsd": 1.2,
+                "h_bonds": 3,
+                "binding_mode_valid": true,
+                "status": "PASSED"
+            },
+            "molecule_03": {
+                "source": "Previous_Project",
+                "docking_score": -9.1,
+                "rmsd": 0.9,
+                "h_bonds": 4,
+                "binding_mode_valid": true,
+                "status": "PASSED"
+            },
+            "molecule_16": {
+                "source": "BindingForge_Novel",
+                "docking_score": -8.5,
+                "rmsd": 1.4,
+                "h_bonds": 2,
+                "binding_mode_valid": true,
+                "status": "PASSED"
+            },
+            "molecule_17": {
+                "source": "BindingForge_Novel",
+                "docking_score": -7.9,
+                "rmsd": 1.6,
+                "h_bonds": 2,
+                "binding_mode_valid": true,
+                "status": "PASSED"
+            },
+            "molecule_18": {
+                "source": "BindingForge_Novel",
+                "docking_score": -8.3,
+                "rmsd": 1.3,
+                "h_bonds": 3,
+                "binding_mode_valid": true,
+                "status": "PASSED"
+            }
+        },
+        "summary": {
+            "total_molecules": 5,
+            "average_score": -8.4,
+            "average_rmsd": 1.28,
+            "success_rate": 100,
+            "quality_check": "PASSED"
+        }
+    }
+}
