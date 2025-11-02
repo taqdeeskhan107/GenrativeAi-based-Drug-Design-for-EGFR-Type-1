@@ -1,9 +1,9 @@
-# Supporting Information for BindingForge Project
+# Supporting Information for Project
 
-This directory contains the supporting information and supplementary data for the project, focusing on EGFR Type 1 inhibitor analysis and validation.
+This directory contains the project's supporting information and supplementary data, focusing on EGFR Type 1 inhibitor analysis and validation.
 
 ## Important Note on Project Naming
-Please note that "BindingForge" is a working title used during the development and coding phase of this project. The published paper uses its formal academic title. The name "BindingForge" appears in code, file names, and development documentation but should not be confused with the paper's official title.
+Please note that "BindingForge" is a working title used during this project's development and coding phase. The published paper uses its formal academic title. The name "BindingForge" appears in code, file names, and development documentation, but should not be confused with the paper's official title.
 
 ## Important Note on Molecule Numbering
 For clarity and presentation in the paper, we have adopted the following molecule numbering convention:
